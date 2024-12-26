@@ -1,7 +1,3 @@
-
-### `README.md` para o Repositório `exercicios_python-cursoEmVideo`
-
-```markdown
 # Exercícios Python (Curso em Vídeo)
 
 Este repositório contém exercícios resolvidos do curso de Python oferecido pelo Gustavo Guanabara.
@@ -31,10 +27,11 @@ Cada exercício está bem documentado e apresenta a solução implementada duran
 
 ```plaintext
 exercicios_python-cursoEmVideo/
-├── README.md
-├── exercicio1.py
-├── exercicio2.py
-└── exercicio3.py
+├── .idea/
+├── Mundo_01/
+├── Mundo_02/
+├── Mundo_03/
+└── README.md
 ```
 ## 🛠 Tecnologias Usadas
 - Python
